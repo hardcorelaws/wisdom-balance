@@ -1,0 +1,55 @@
+cff-version: 1.2.0  
+message: "If you use The Wisdom Balance, please cite it as below."  
+type: generic  
+title: "The Wisdom Balance: A Leadership Framework for Sustaining
+Equilibrium in Complex Initiatives"  
+authors:
+
+- family-names: "Kuthiala"  
+  given-names: "Puneet"  
+  version: "1.0.0"  
+  date-released: 2026-06-05  
+  abstract: "The Wisdom Balance is a leadership framework for sustaining
+  equilibrium in complex initiatives through wisdom applied across
+  People, Decisions, Shared Values, and Controls."  
+  keywords:
+
+- leadership
+
+- initiative leadership
+
+- project management
+
+- program management
+
+- governance
+
+- decision-making
+
+- stakeholder alignment
+
+- complex initiatives
+
+- leadership judgement
+
+- organizational change  
+  license: "CC-BY-4.0"  
+  url: "<https://github.com/YOUR-USERNAME/YOUR-REPOSITORY>"  
+  repository-code:
+  "<https://github.com/YOUR-USERNAME/YOUR-REPOSITORY>"  
+  preferred-citation:  
+  type: generic  
+  title: "The Wisdom Balance: A Leadership Framework for Sustaining
+  Equilibrium in Complex Initiatives"  
+  authors:
+
+  - family-names: "Kuthiala"  
+    given-names: "Puneet"  
+    version: "1.0.0"  
+    date-released: 2026-06-05  
+    abstract: "The Wisdom Balance is an independently released
+    professional framework for leadership reflection, initiative
+    diagnosis, governance conversations, recovery efforts, stakeholder
+    alignment, strategic reviews, and lessons learned."  
+    license: "CC-BY-4.0"  
+    url: "<https://github.com/YOUR-USERNAME/YOUR-REPOSITORY>"
