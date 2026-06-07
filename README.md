@@ -32,8 +32,7 @@ The deeper forces are:
 
 At the centre is **wisdom**: the applied judgement through which leaders interpret context, balance competing forces, and preserve alignment with purpose.
 
-![image5](D:\Dropbox\Projects\PuneetKuthiala.com\Books\Open Source\Github\media\media\image5.png)
-
+!wisdom balance framework[(/images/wisdom-balance-c.png)
 
 ## Why This Framework Exists
 
