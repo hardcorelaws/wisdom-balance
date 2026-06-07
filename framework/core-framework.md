@@ -50,7 +50,7 @@ The leader’s task is to read these forces, understand their interaction, and i
 
 They are not merely resources assigned to work packages. They are stakeholders with skills, motivations, values, fears, ambitions, interpretations, loyalties, and self-interests. They carry the initiative forward through their judgment, cooperation, resistance, creativity, and will.
 
-![](D:\Dropbox\Projects\PuneetKuthiala.com\Books\Open Source\Github\wisdom-balance\images\people-force.PNG)
+![people force](/images/people-force.PNG)
 
 The People force includes several elements.
 
@@ -76,7 +76,7 @@ When the People force is neglected, the initiative may appear to suffer from exe
 
 Every initiative advances through decisions. Some are formal and visible. Others are informal, delayed, avoided, assumed, or made by default. Each decision influences time, cost, quality, scope, risk, relationships, confidence, and future options.
 
-![](D:\Dropbox\Projects\PuneetKuthiala.com\Books\Open Source\Github\wisdom-balance\images\decisions-force.PNG)
+![decisions force](/images/decisions-force.PNG)
 
 The Decision force includes the following elements.
 
@@ -100,7 +100,7 @@ Every initiative operates within a value environment. Some values are declared t
 
 Shared Values influence how people interpret purpose, resolve conflict, make trade-offs, accept accountability, and respond under pressure. They often affect initiative more deeply than budget, deadlines, or processes.
 
-![](D:\Dropbox\Projects\PuneetKuthiala.com\Books\Open Source\Github\wisdom-balance\images\shared-values-force.PNG)
+![shared values force](/images/shared-values-force.PNG)
 
 The Shared Values force includes several elements.
 
@@ -128,7 +128,7 @@ Controls provide structure, oversight, discipline, reporting, boundaries, and co
 
 A control that enables visibility and timely correction strengthens the initiative. A control that creates ritual without insight weakens it. A control that suppresses truth damages leadership judgment.
 
-![](D:\Dropbox\Projects\PuneetKuthiala.com\Books\Open Source\Github\wisdom-balance\images\controls-force.PNG)
+![controls force](/images/controls-force.PNG)
 
 The Control force includes the following elements.
 
@@ -160,7 +160,7 @@ The context in which an initiative is executed guides its course. Prudent action
 
 *The Wisdom Balance* may be represented as a system held in equilibrium. The visible pressures of the initiative create strain. People, Decisions, Shared Values, and Controls converge as the four balancing forces. At the center, wisdom enables leadership to interpret, adjust, guide, and realign the initiative.
 
-![wisdom-balance-c](D:\Dropbox\Projects\PuneetKuthiala.com\Books\Open Source\Github\wisdom-balance\images\wisdom-balance-c.png)
+![wisdom-balance-framework](/images/wisdom-balance-c.png)
 
 This image represents leadership equilibrium in a complex initiative system. It shows that stability does not arise solely from the process. Stability arises when leaders apply knowledge, skill, experience, and judgment to balance the deeper forces that shape the initiative. The model recognizes that initiatives are fluid. They remain vulnerable to misalignment, uncertainty, change, chaos, complexity, competing interests, and environmental movement. Maintaining equilibrium is therefore a continuing leadership act.
 
