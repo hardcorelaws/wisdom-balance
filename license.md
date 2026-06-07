@@ -5,13 +5,11 @@
 Copyright © 2015 Puneet Kuthiala
 
 The Wisdom Balance is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
-
 The Wisdom Balance™ is used as the identifying name of the framework created and maintained by Puneet Kuthiala.
 
 Subject to the terms of this license, you are free to:
 
 - **Share**: copy and redistribute the material in any medium or format.
-
 - **Adapt**: remix, transform, translate, and build upon the material for any purpose, including commercial use.
 
 
@@ -21,24 +19,18 @@ Subject to the terms of this license, you are free to:
 Under CC BY 4.0, you must:
 
 - Give appropriate credit to the author.
-
 - Provide a link to the license.
-
 - Indicate if changes were made.
-
-- Avoid suggesting that the author endorses you, your use, or your adaptation unless explicit written permission has been given.
-  
+- Avoid suggesting that the author endorses you, your use, or your adaptation unless explicit written permission has been given.  
 - Not apply legal terms or technological measures that legally restrict others from doing anything permitted by the license.
 
 ## Official Version
 
 The official version of The Wisdom Balance is maintained by Puneet Kuthiala in the official repository:
-
-\[Insert GitHub repository URL\]
+https://github.com/hardcorelaws/wisdom-balance
 
 The official archived release, where available, may be accessed through Zenodo:
-
-\[Insert DOI URL\]
+https://doi.org/10.5281/zenodo.20576010
 
 Adaptations, translations, summaries, derivative works, teaching materials, templates, or other uses based on *The Wisdom Balance* do not become part of the official framework unless expressly accepted into the official repository by the author.
 
@@ -69,9 +61,9 @@ Where possible, include:
 
 - Version: 1.0.0
 
-- Source: \[Insert GitHub repository URL or website URL\]
+- Source: https://github.com/hardcorelaws/wisdom-balance
 
-- DOI: \[Insert Zenodo DOI, if available\]
+- DOI: https://doi.org/10.5281/zenodo.20576010
 
 - License: Creative Commons Attribution 4.0 International, CC BY 4.0
 
