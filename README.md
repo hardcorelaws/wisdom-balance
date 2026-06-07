@@ -52,13 +52,13 @@ At the centre of the model is wisdom: applied judgement in context.
 
 ## Start Here
 
-- Read the [Introduction](framework/introduction.md)
-- Explore [The Nature of Initiatives](framework/the-nature-of-initiatives.md)
-- Review the [Core Framework](framework/core-framework.md)
-- Apply the [Application Method](framework/application-method.md)
-- Use the [Diagnostic Questions](framework/diagnostic-questions.md)
-- Understand the [Boundaries and Misuse](framework/boundaries-and-misuse.md)
-- Review the [Origin and Provenance](framework/origin-and-provenance.md)
+- Read the [Introduction](framework/1_introduction.md)
+- Explore [The Nature of Initiatives](framework/2_the-nature-of-initiatives.md)
+- Review the [Core Framework](framework/3_core-framework.md)
+- Apply the [Application Method](framework/4_application-method.md)
+- Use the [Diagnostic Questions](framework/5_diagnostic-questions.md)
+- Understand the [Boundaries and Misuse](framework/6_boundaries-and-misuse.md)
+- Review the [Origin and Provenance](framework/7_origin-and-provenance.md)
 - How to [Contribute](contributing.md)
 
 ## Applications
