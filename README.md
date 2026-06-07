@@ -53,14 +53,22 @@ At the centre of the model is wisdom: applied judgement in context.
 
 ## Start Here
 
-- Read the [Introduction](introduction.md)
-- Explore [The Nature of Initiatives](the-nature-of-initiatives.md)
-- Review the [Wisdom Balance Framework](wisdom-balance-framework)
-- Apply the [Application Method](application-method.md)
-- Use the [Diagnostic Questions](diagnostic-questions.md)
-- Understand the [Boundaries and Misuse](boundaries-and-misuse.md)
-- Review the [Origin and Provenance](origin-and-provenance.md)
+- Read the [Introduction](framework/introduction.md)
+- Explore [The Nature of Initiatives](framework/the-nature-of-initiatives.md)
+- Review the [Core Framework](framework/core-framework.md)
+- Apply the [Application Method](framework/application-method.md)
+- Use the [Diagnostic Questions](framework/diagnostic-questions.md)
+- Understand the [Boundaries and Misuse](framework/boundaries-and-misuse.md)
+- Review the [Origin and Provenance](framework/origin-and-provenance.md)
 - How to [Contribute](contributing.md)
+
+## Applications
+- Quick [Start Guide](framework/quick-start.md)
+- A quick [diagnostic canvas](application/diagnostic-canvas.md)
+- A [Role Specific Usage Guide](application/role-specific-usage-notes.md)
+- Example [visible pressure: cost](application/example-cost-pressure.md)
+- Example [governance theater](application/example-governance-theater.md)
+
 
 ## What This Framework Does Not Replace
 
