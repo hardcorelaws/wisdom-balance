@@ -1,6 +1,6 @@
 # The Wisdom Balance
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20576010.svg)](https://doi.org/10.5281/zenodo.20576010)
 
 **A leadership framework for sustaining equilibrium in complex initiatives.**
 
